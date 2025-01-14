@@ -22,9 +22,8 @@ class ScraperService:
     @retry(3, delay=5)  # Retry mechanism
     async def scrape_page(self, page_number):
         url = f"{self.BASE_URL}{page_number}/"
-        
 
-        async with httpx.AsyncClient(proxies=self.proxy) as client:
+        async with httpx.AsyncClient() as client:
             response = await client.get(url)
             print("response - ", response)
             if response.status_code == 301:
