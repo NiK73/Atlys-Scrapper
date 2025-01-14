@@ -13,10 +13,18 @@ class StorageService:
             # Read existing data
             if os.path.exists(self.FILE_PATH):
                 with open(self.FILE_PATH, "r") as file:
-                    data = json.load(file)
+                    # Check if file is empty
+                    file_content = file.read()
+                    if not file_content:
+                        data = []  # File is empty, initialize data as an empty list
+                    else:
+                        data = json.loads(file_content)  # Load existing data from the file
             else:
-                data = []
+                data = []  # If file doesn't exist, initialize as empty list
+
+            # Append the new product to the existing data
             data.append(product)
+
             # Save the updated list to the file
             with open(self.FILE_PATH, "w") as file:
                 json.dump(data, file, indent=4)

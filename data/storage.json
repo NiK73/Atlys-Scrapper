@@ -1,122 +1,146 @@
 [
-    "{\"title\": \"1 x GDC Extraction Forceps Lo...\", \"price\": \"\\u20b9850.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/11/GDC-Extraction-Forceps-Lower-Molars-86A-Standard-FX86AS-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/1-x-gdc-extraction-forceps-lower-molars-86-ergonomic-fx86e/\"}",
-    "{\"title\": \"3A MEDES Bleaching And Night ...\", \"price\": \"Starting at: \\u20b91380.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/3a-medes-bleaching-and-night-guard-sheets-2-1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3a-medes-bleaching-and-night-guard-sheets/\"}",
-    "{\"title\": \"3m Espe Adper Easy Bond Self-...\", \"price\": \"\\u20b92365.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/3mespe082010-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-adper-easy-bond-self-etch-adhesive/\"}",
-    "{\"title\": \"3M ESPE Adper Scotchbond Mult...\", \"price\": \"Starting at: \\u20b91195.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/01/artboard_1_copy_7-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-adper-scotchbond-multi-purpose-plus/\"}",
-    "{\"title\": \"3m Espe Adper Single Bond Uni...\", \"price\": \"Starting at: \\u20b92590.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Adper-Single-Bond-Universal-Adhesive-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-adper-single-bond-universal-adhesive/\"}",
-    "{\"title\": \"3m Espe Clinpro Sealant \\u0335...\", \"price\": \"Starting at: \\u20b91995.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/65e2c135c8ee024c58e0422947cbbfc0-1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-clinpro-sealant-refills/\"}",
-    "{\"title\": \"3M ESPE Clinpro Tooth Creme...\", \"price\": \"Starting at: \\u20b9500.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Clinpro-Tooth-Creme.-3-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-clinpro-tooth-creme/\"}",
-    "{\"title\": \"3M Espe Composite Syringe Org...\", \"price\": \"\\u20b9995.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/61iV6qF-bL._SL1000_-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-composite-syringe-organiser/\"}",
-    "{\"title\": \"3m Espe Elipar Deepcure Led &...\", \"price\": \"\\u20b954600.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Elipar-Deepcure-Led-Curing-Light.-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-elipar-deepcure-led-curing-light/\"}",
-    "{\"title\": \"3M ESPE Express XT VPS Impres...\", \"price\": \"Starting at: \\u20b92860.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/01/Express-material-de-impresion-3M-ESPE-1200x1200-1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-express-xt-vps-impression-material-refills/\"}",
-    "{\"title\": \"3m Espe Filtek Bulk Fill Comp...\", \"price\": \"Starting at: \\u20b94495.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/4863a1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-filtek-bulk-fill-composite-syringe-4gm/\"}",
-    "{\"title\": \"3M Espe Filtek Supreme Flowab...\", \"price\": \"Starting at: \\u20b91280.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3M-Espe-Filtek-Supreme-Flowable-Restorative..-3-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-filtek-supreme-flowable-restorative/\"}",
-    "{\"title\": \"3m Espe Filtek Z250 Xt Restor...\", \"price\": \"Starting at: \\u20b91280.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/05/3M-ESPE-Filtek-Z250-XT-Nano-Hybrid-1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-filtek-z250-xt-restorative-syringe/\"}",
-    "{\"title\": \"3M ESPE Impregum Soft \\u2013...\", \"price\": \"Starting at: \\u20b94495.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/01/5cd92d4d2faa7-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-impregum-soft-refills/\"}",
-    "{\"title\": \"3M ESPE Imprint Bite Registra...\", \"price\": \"\\u20b97790.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/01/imprint-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-imprint-bite-registration-material-vps/\"}",
-    "{\"title\": \"3m Espe Ketac Universal Glass...\", \"price\": \"\\u20b93195.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Ketac-Universal-Glass-Ionomer-Restorative.-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-ketac-universal-glass-ionomer-restorative/\"}",
-    "{\"title\": \"3M Espe mixing tips (BLUE) Pa...\", \"price\": \"\\u20b93255.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3M-Espe-mixing-tips-BLUE-Pack-of-8-1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-mixing-tips-blue-pack-of-8/\"}",
-    "{\"title\": \"3m Espe Monophase Polyether I...\", \"price\": \"Starting at: \\u20b95143.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/3m_2_3-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-monophase-polyether-impression-material/\"}",
-    "{\"title\": \"3m Espe P-60 Micro Hybrid Pos...\", \"price\": \"Starting at: \\u20b91770.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/79_2-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-p-60-micro-hybrid-posterior-syringe/\"}",
-    "{\"title\": \"3m Espe Pediatric Strip Crown...\", \"price\": \"Starting at: \\u20b91230.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/strip-crown-form-pedo-500x500_2-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-pediatric-strip-crown-forms/\"}",
-    "{\"title\": \"3M ESPE Pedodontic Strip Crow...\", \"price\": \"\\u20b920500.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/01/01640263061-h-250-UK1038210_1200x1200-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-pedodontic-strip-crown-kit/\"}",
-    "{\"title\": \"3m Espe Relyx Ceramic Primer...\", \"price\": \"\\u20b91640.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/e8d446_e6e099a0fe69431ab1bad4b28031ed74mv2-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-relyx-ceramic-primer/\"}",
-    "{\"title\": \"3m Espe Relyx Luting 2 Refill...\", \"price\": \"Starting at: \\u20b94580.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Relyx-Luting-2-Refill-Packs...-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-relyx-luting-2-refill-packs/\"}",
-    "{\"title\": \"3m Espe Relyx Veneer Cement...\", \"price\": \"Starting at: \\u20b92450.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Relyx-Veneer-Cement...jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-relyx-veneer-cement/\"}",
-    "{\"title\": \"3M ESPE Restorative Introduct...\", \"price\": \"\\u20b94395.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/01/03-44-700x700-1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-restorative-introductory-valux-kit/\"}",
-    "{\"title\": \"3M Espe Retraction Capsule...\", \"price\": \"\\u20b95395.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3M-Espe-Retraction-Capsule.-3-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-retraction-capsule/\"}",
-    "{\"title\": \"3m Espe Sof-Lex Finishing Str...\", \"price\": \"Starting at: \\u20b92272.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/3m_espe_sof-lex_finishing_strips_-_refill-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-sof-lex-finishing-strips-refills/\"}",
-    "{\"title\": \"3m Espe Sof-Lex Polishing Dis...\", \"price\": \"Starting at: \\u20b9780.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Sof-Lex-Polishing-Discs-Kits-Accessories....-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-sof-lex-polishing-discs-kits-accessories/\"}",
-    "{\"title\": \"3m Espe Sof-Lex Spiral Wheels...\", \"price\": \"\\u20b92365.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/3m_1_1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-sof-lex-spiral-wheels-trial-kit/\"}",
-    "{\"title\": \"3m Espe Sof-Lex Spiral Wheels...\", \"price\": \"\\u20b92830.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/dia_3_2_2-300x160.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-sof-lex-spiral-wheels-diamond-polishing-system-kit/\"}",
-    "{\"title\": \"3m Espe Sof-Lex Spiral Wheels...\", \"price\": \"Starting at: \\u20b94550.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/web_3m_sof-lex-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-sof-lex-spiral-wheels-refills/\"}",
-    "{\"title\": \"3M Espe SS Crown Primary Mola...\", \"price\": \"Starting at: \\u20b9620.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/3m-espe-ss-crown-pr-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-ss-crown-primary-molar-crown-d-1st-molar/\"}",
-    "{\"title\": \"3m Espe Stainless Steel Prima...\", \"price\": \"Starting at: \\u20b9620.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Stainless-Steel-Primary-Crown-E-2nd-Molar.-3-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-stainless-steel-primary-crown-e-2nd-molar/\"}",
-    "{\"title\": \"3m Espe Vitrebond Light Cure ...\", \"price\": \"Starting at: \\u20b92750.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/s-l300_1_5-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-vitrebond-light-cure-glass-ionomer-liner-base-refills/\"}",
-    "{\"title\": \"3M ESPE Vitrebond Plus Light ...\", \"price\": \"\\u20b96900.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/04/3M-V0022__77402-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-vitrebond-plus-light-cure-glass-ionomer-liner-base-clicker/\"}",
-    "{\"title\": \"3m Espe Vps Tray Adhesive...\", \"price\": \"\\u20b91495.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/vps_tray_adhesve_7307-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-espe-vps-tray-adhesive/\"}",
-    "{\"title\": \"3M Unitek Alastik Bobbin Chai...\", \"price\": \"Starting at: \\u20b92790.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3M-Unitek-Alastik-Bobbin-Chain-1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-unitek-alastik-bobbin-chain/\"}",
-    "{\"title\": \"3M Unitek AlastiK Easy-To-Tie...\", \"price\": \"\\u20b93230.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3M-Unitek-AlastiK-Easy-To-Tie-Ligature-Pack-Of-100-1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-unitek-alastik-easy-to-tie-ligature-pack-of-100/\"}",
-    "{\"title\": \"3m Unitek Clarity Advanced Ce...\", \"price\": \"Starting at: \\u20b914350.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m_unitek_clarity_advanced_ceramic_brackets_1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-unitek-clarity-advanced-ceramic-brackets/\"}",
-    "{\"title\": \"3m Unitek Forsus Fatigue Resi...\", \"price\": \"Starting at: \\u20b97750.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m-Unitek-Forsus-Fatigue-Resistant-Device-Ez2-Module-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-unitek-forsus-fatigue-resistant-device-ez2-module/\"}",
-    "{\"title\": \"3M Unitek Forsus Fatigue Resi...\", \"price\": \"Starting at: \\u20b96550.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m-Unitek-Forsus-Fatigue-Resistant-Device-L-Pin-Module.-1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-unitek-forsus-fatigue-resistant-device-l-pin-module/\"}",
-    "{\"title\": \"3m Unitek Gemini Metal Twin B...\", \"price\": \"Starting at: \\u20b93550.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m-Unitek-Gemini-Metal-Twin-Brackets-1.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-unitek-gemini-metal-twin-brackets/\"}",
-    "{\"title\": \"3M Unitek Gemini Self Ligatin...\", \"price\": \"\\u20b98180.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3M-Unitek-Gemini-Self-Ligating-Metal-Bracket-MBT-022-5x5-1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-unitek-gemini-self-ligating-metal-bracket-mbt-022-5x5/\"}",
-    "{\"title\": \"3M Unitek Transbond Plus Colo...\", \"price\": \"\\u20b93340.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3M-Unitek-Transbond-Plus-Colour-Change-Syringe-Refill-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-unitek-transbond-plus-colour-change-syringe-refill/\"}",
-    "{\"title\": \"3M Unitek Transbond XT Adhesi...\", \"price\": \"\\u20b92800.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3M-Unitek-Transbond-XT-Adhesive-Syringe-1-Syr-Pack.-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-unitek-transbond-xt-adhesive-syringe-1-syr-pack/\"}",
-    "{\"title\": \"3m Unitek Unite Adhesive Syri...\", \"price\": \"\\u20b99560.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m-Unitek-Unite-Adhesive-Syringe-1.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-unitek-unite-adhesive-syringe/\"}",
-    "{\"title\": \"3m Unitek Victory Series Twin...\", \"price\": \"Starting at: \\u20b95230.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/12/3m_unitek_victory_series_twin_brackets-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/3m-unitek-victory-series-twin-brackets/\"}",
-    "{\"title\": \"Advance Biotech Osseomould...\", \"price\": \"\\u20b92795.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/osseomold-advanced-biotech-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/advance-biotech-osseomould/\"}",
-    "{\"title\": \"Advance Biotech Surgicoll Mes...\", \"price\": \"Starting at: \\u20b9795.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/surgicoll-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/advance-biotech-surgicoll-mesh/\"}",
-    "{\"title\": \"Advanced Biotech Healiguide...\", \"price\": \"Starting at: \\u20b91670.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/healiguide-advanced-biotech-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/advanced-biotech-healiguide/\"}",
-    "{\"title\": \"Advanced Biotech Hemocoll...\", \"price\": \"Starting at: \\u20b9590.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/hemocoll-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/advanced-biotech-hemocoll/\"}",
-    "{\"title\": \"Advanced Biotech Osseograft D...\", \"price\": \"\\u20b92795.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/osseograft_2.jpg\", \"product_url\": \"https://dentalstall.com/product/advanced-biotech-osseograft-dmbm/\"}",
-    "{\"title\": \"Advanced Biotech Periodontal ...\", \"price\": \"\\u20b9785.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/03/ab_1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/advanced-biotech-periodontal-plus-ab/\"}",
-    "{\"title\": \"Airotor Cartridge (NSK Type)...\", \"price\": \"Starting at: \\u20b9175.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/adrsf-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/airotor-cartridge-nsk-type/\"}",
-    "{\"title\": \"Anabond Asep-Rc...\", \"price\": \"\\u20b9475.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/11/ANABOND-asep_rc_1_1.jpg\", \"product_url\": \"https://dentalstall.com/product/anabond-asep-rc/\"}",
-    "{\"title\": \"Anabond Blu-Bite...\", \"price\": \"\\u20b9730.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/11/anabond-blu-bite-1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/anabond-blu-bite/\"}",
-    "{\"title\": \"Anabond Dentocal...\", \"price\": \"\\u20b9340.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/11/Anabond-Dentocal-scaled-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/anabond-dentocal/\"}",
-    "{\"title\": \"Anabond Desmear...\", \"price\": \"\\u20b9390.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/11/Anabond-Desmear-scaled-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/anabond-desmear/\"}",
-    "{\"title\": \"Anabond Endoprep-Rc...\", \"price\": \"\\u20b9340.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/11/products-endoprep-anabond-800x800-1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/anabond-endoprep-rc/\"}",
-    "{\"title\": \"Anabond Orthofix Kit...\", \"price\": \"\\u20b92330.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/01/untitled_design_8_-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/anabond-orthofix-kit/\"}",
-    "{\"title\": \"Anabond Orthofix Light Cure A...\", \"price\": \"\\u20b92090.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/01/orthofix-pack-of-4-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/anabond-orthofix-light-cure-adhesive-kit/\"}",
-    "{\"title\": \"Anabond-Stedman Germafin Neo...\", \"price\": \"\\u20b9470.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/11/Anabond-Stedman-Germafin-Neo-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/anabond-stedman-germafin-neo/\"}",
-    "{\"title\": \"Anabond-Stedman Yuseal Pit &#...\", \"price\": \"\\u20b9720.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2021/11/Anabond-Stedman-Yuseal-Pit-Fissure-Sealant-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/anabond-stedman-yuseal-pit-fissure-sealant/\"}",
-    "{\"title\": \"Angelus Bio-C Repair...\", \"price\": \"Starting at: \\u20b91590.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/fdgfg-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-bio-c-repair/\"}",
-    "{\"title\": \"Angelus Bio-C Sealer Bioceram...\", \"price\": \"Starting at: \\u20b91565.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/bio_3-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-bio-c-sealer-bioceramic-root-canal-sealers/\"}",
-    "{\"title\": \"Angelus Bio-C Temp...\", \"price\": \"Starting at: \\u20b9795.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus-bio-c-temp_600x_crop_center_1_-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-bio-c-temp/\"}",
-    "{\"title\": \"Angelus Endodontic Ruler...\", \"price\": \"\\u20b9350.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_endodontic_ruler-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-endodontic-ruler/\"}",
-    "{\"title\": \"Angelus Endometric...\", \"price\": \"\\u20b9870.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_endometric1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-endometric/\"}",
-    "{\"title\": \"Angelus Exacto Intro Kit...\", \"price\": \"\\u20b96490.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_exacto_intro_kit-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-exacto-intro-kit/\"}",
-    "{\"title\": \"Angelus Exacto Refill Pack...\", \"price\": \"Starting at: \\u20b92390.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_exacto_refill_pack1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-exacto-refill-pack/\"}",
-    "{\"title\": \"Angelus Exacto Trial Pack...\", \"price\": \"Starting at: \\u20b92695.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_exacto_trial_pack-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-exacto-trial-pack/\"}",
-    "{\"title\": \"Angelus Flex Surgical Ejector...\", \"price\": \"\\u20b92490.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/eedd333-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-flex-surgical-ejector/\"}",
-    "{\"title\": \"Angelus Interlig Single Patie...\", \"price\": \"\\u20b91180.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_interlig_single_patient_strip3-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-interlig-single-patient-strip/\"}",
-    "{\"title\": \"Angelus Intermedium...\", \"price\": \"\\u20b92990.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/140430intermedium-calibrating-ruler-for-gutta-percha-points-angelus-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-intermedium/\"}",
-    "{\"title\": \"Angelus Mta \\u2013 1 Gm Whit...\", \"price\": \"\\u20b93995.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_mta_-_1_gm_white3-300x300.png\", \"product_url\": \"https://dentalstall.com/product/angelus-mta-1-gm-white/\"}",
-    "{\"title\": \"Angelus MTA 0.14gm...\", \"price\": \"\\u20b9990.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/2021-03-25-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-mta-0-14gm/\"}",
-    "{\"title\": \"Angelus Mta Applicator...\", \"price\": \"\\u20b95495.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/fdsvdsfds-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-mta-applicator/\"}",
-    "{\"title\": \"Angelus Mta Fillapex Small Tu...\", \"price\": \"\\u20b93995.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_mta_fillapex_small_tube_12gm3-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-mta-fillapex-small-tube-12gm/\"}",
-    "{\"title\": \"Angelus MTA Fillapex Smartmix...\", \"price\": \"\\u20b92550.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_mta_fillapex_smartmix_syringe_4_gm_-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-mta-fillapex-smartmix-syringe-4-gm/\"}",
-    "{\"title\": \"Angelus MZ Primer...\", \"price\": \"\\u20b93470.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_mz_primer-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-mz-primer/\"}",
-    "{\"title\": \"Angelus Pinjet (5002)...\", \"price\": \"\\u20b9600.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_pinjet_5002_5-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-pinjet-5002/\"}",
-    "{\"title\": \"Angelus Porcelain Conditioner...\", \"price\": \"\\u20b9745.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/123_5-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-porcelain-conditioner/\"}",
-    "{\"title\": \"Angelus Reforpin Universal Pa...\", \"price\": \"Starting at: \\u20b9585.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/reforpin_5-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-reforpin-universal-pack/\"}",
-    "{\"title\": \"Angelus Reforpost Carbon Fibe...\", \"price\": \"Starting at: \\u20b91325.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_reforpost_carbon_fiber_-_refill1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-reforpost-carbon-fiber-refill/\"}",
-    "{\"title\": \"Angelus Reforpost Fibre Glass...\", \"price\": \"Starting at: \\u20b92050.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_reforpost_fibre_glass_-_refill2-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-reforpost-fibre-glass-refill/\"}",
-    "{\"title\": \"Angelus Reforpost Fibre Glass...\", \"price\": \"Starting at: \\u20b92650.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/30kit-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-reforpost-fibre-glass-kit/\"}",
-    "{\"title\": \"Angelus Reforpost Key...\", \"price\": \"\\u20b9510.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus-reforpost-key-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-reforpost-key/\"}",
-    "{\"title\": \"Angelus Reforpost Metallic Re...\", \"price\": \"Starting at: \\u20b9660.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_reforpost_metallic_refill4-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-reforpost-metallic-refill/\"}",
-    "{\"title\": \"Angelus Reforpost Mix \\u2013...\", \"price\": \"Starting at: \\u20b91325.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/ANGE01_REFO05_01_001_7-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-reforpost-mix-refill/\"}",
-    "{\"title\": \"Angelus Repair Kit...\", \"price\": \"\\u20b92955.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus_repair_kit-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-repair-kit/\"}",
-    "{\"title\": \"Angelus Silano...\", \"price\": \"\\u20b91130.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/silano_1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-silano/\"}",
-    "{\"title\": \"Angelus Syringe Sleeve...\", \"price\": \"\\u20b91465.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/02/angelus-syringe-sleeve-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/angelus-syringe-sleeve/\"}",
-    "{\"title\": \"API Allis Forceps...\", \"price\": \"\\u20b9525.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/api12-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-allis-forceps/\"}",
-    "{\"title\": \"API Amalgam Carrier...\", \"price\": \"Starting at: \\u20b9730.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/arjun_1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-amalgam-carrier/\"}",
-    "{\"title\": \"API Amalgam Well...\", \"price\": \"\\u20b91050.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/api13.jpg\", \"product_url\": \"https://dentalstall.com/product/api-amalgam-well/\"}",
-    "{\"title\": \"API Artery Forceps...\", \"price\": \"Starting at: \\u20b9395.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/18a-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-artery-forceps/\"}",
-    "{\"title\": \"API Articulating Paper Forcep...\", \"price\": \"Starting at: \\u20b9460.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/articulating_1_1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-articulating-paper-forceps/\"}",
-    "{\"title\": \"API Articulator For Typhodont...\", \"price\": \"Starting at: \\u20b91280.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/roles_cross_arcylic_teeth3aa-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-articulator-for-typhodont-jaw/\"}",
-    "{\"title\": \"API Articulator Hinge...\", \"price\": \"\\u20b972.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/04/api-articulator-hinge-plastic_1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-articulator-hinge/\"}",
-    "{\"title\": \"API Articulator Ultra P2...\", \"price\": \"\\u20b913600.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/04/ultra_p2-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-articulator-ultra-p2/\"}",
-    "{\"title\": \"Api Autoclavable PMT Tray...\", \"price\": \"\\u20b9150.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/04/whatsapp_image_2021-12-28_at_6.53.48_pm-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-autoclavable-pmt-tray/\"}",
-    "{\"title\": \"Api Ball Burnisher (Bb18)...\", \"price\": \"\\u20b9175.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/129-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-ball-burnisher-bb18/\"}",
-    "{\"title\": \"API Band Pinching Plier \\u0335...\", \"price\": \"\\u20b94000.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/pinchingapi1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-band-pinching-plier-set-of-2/\"}",
-    "{\"title\": \"Api Band Pusher (4870)...\", \"price\": \"\\u20b9525.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/134-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-band-pusher-4870/\"}",
-    "{\"title\": \"API Band Remover Plier #3 Ant...\", \"price\": \"\\u20b9790.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/plier_1_1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-band-remover-plier-3-anterior/\"}",
-    "{\"title\": \"API Base Former Silicon Ring ...\", \"price\": \"\\u20b91195.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/04/untitled-9-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-base-former-silicon-ring-set-of-5/\"}",
-    "{\"title\": \"Api Blue Periotome Set of 3...\", \"price\": \"\\u20b91510.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/blue-periotom-set-of-3-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-blue-periotome-set-of-3/\"}",
-    "{\"title\": \"API Bone Chisel & Mallet ...\", \"price\": \"Starting at: \\u20b9175.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/2_2_12fqa-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-bone-chisel-mallet-premium/\"}",
-    "{\"title\": \"API Bone Collector...\", \"price\": \"Starting at: \\u20b93300.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/bone_collector-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-bone-collector-2/\"}",
-    "{\"title\": \"API Bone Curettes...\", \"price\": \"Starting at: \\u20b9265.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/untitled_design_26__1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-bone-curettes/\"}",
-    "{\"title\": \"Api Bone File Miller -52 (Bf5...\", \"price\": \"\\u20b9335.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/107-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-bone-file-miller-52-bf52/\"}",
-    "{\"title\": \"API Bone Injector...\", \"price\": \"Starting at: \\u20b92000.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/bone_injector-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-bone-injector-2/\"}",
-    "{\"title\": \"API Bone Mill...\", \"price\": \"\\u20b98500.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/apibone111-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-bone-mill/\"}",
-    "{\"title\": \"API Bone Rongeur...\", \"price\": \"Starting at: \\u20b9975.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/rongeur-1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-bone-rongeur/\"}",
-    "{\"title\": \"API Boone\\u2019s Gauge...\", \"price\": \"\\u20b9630.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/boone_s_gauge_1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-boones-gauge/\"}",
-    "{\"title\": \"API BP Handle...\", \"price\": \"Starting at: \\u20b9265.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/api14-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-bp-handle/\"}",
-    "{\"title\": \"API Bracket Height Gauge 0.18...\", \"price\": \"Starting at: \\u20b9790.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/morelli_bracket_positioner.2_1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-bracket-height-gauge-0-18-0-22/\"}",
-    "{\"title\": \"Api Bracket Holding Tweezer W...\", \"price\": \"\\u20b9505.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/258_1-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-bracket-holding-tweezer-with-flap-1006/\"}",
-    "{\"title\": \"API Bracket Placing Tweezer...\", \"price\": \"\\u20b9525.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/slim_direct_bond_bracket_tweezers2-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-bracket-placing-tweezer/\"}",
-    "{\"title\": \"API Bracket Remover...\", \"price\": \"Starting at: \\u20b92650.00\", \"image_url\": \"https://dentalstall.com/wp-content/uploads/2023/05/bracket_removerwaf-300x300.jpg\", \"product_url\": \"https://dentalstall.com/product/api-bracket-remover/\"}"
+    {
+        "title": "1 x GDC Extraction Forceps Lo...",
+        "price": "850.001250.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2021/11/GDC-Extraction-Forceps-Lower-Molars-86A-Standard-FX86AS-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/1-x-gdc-extraction-forceps-lower-molars-86-ergonomic-fx86e/"
+    },
+    {
+        "title": "3A MEDES Bleaching And Night ...",
+        "price": "1380.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2023/02/3a-medes-bleaching-and-night-guard-sheets-2-1-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3a-medes-bleaching-and-night-guard-sheets/"
+    },
+    {
+        "title": "3m Espe Adper Easy Bond Self-...",
+        "price": "2365.002863.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2023/03/3mespe082010-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-adper-easy-bond-self-etch-adhesive/"
+    },
+    {
+        "title": "3M ESPE Adper Scotchbond Mult...",
+        "price": "1195.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2023/01/artboard_1_copy_7-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-adper-scotchbond-multi-purpose-plus/"
+    },
+    {
+        "title": "3m Espe Adper Single Bond Uni...",
+        "price": "2590.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Adper-Single-Bond-Universal-Adhesive-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-adper-single-bond-universal-adhesive/"
+    },
+    {
+        "title": "3m Espe Clinpro Sealant \u0335...",
+        "price": "1995.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2023/03/65e2c135c8ee024c58e0422947cbbfc0-1-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-clinpro-sealant-refills/"
+    },
+    {
+        "title": "3M ESPE Clinpro Tooth Creme...",
+        "price": "500.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Clinpro-Tooth-Creme.-3-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-clinpro-tooth-creme/"
+    },
+    {
+        "title": "3M Espe Composite Syringe Org...",
+        "price": "995.002990.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2021/12/61iV6qF-bL._SL1000_-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-composite-syringe-organiser/"
+    },
+    {
+        "title": "3m Espe Elipar Deepcure Led &...",
+        "price": "54600.0082966.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Elipar-Deepcure-Led-Curing-Light.-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-elipar-deepcure-led-curing-light/"
+    },
+    {
+        "title": "3M ESPE Express XT VPS Impres...",
+        "price": "2860.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2023/01/Express-material-de-impresion-3M-ESPE-1200x1200-1-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-express-xt-vps-impression-material-refills/"
+    },
+    {
+        "title": "3m Espe Filtek Bulk Fill Comp...",
+        "price": "4495.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2023/03/4863a1-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-filtek-bulk-fill-composite-syringe-4gm/"
+    },
+    {
+        "title": "3M Espe Filtek Supreme Flowab...",
+        "price": "1280.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2021/12/3M-Espe-Filtek-Supreme-Flowable-Restorative..-3-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-filtek-supreme-flowable-restorative/"
+    },
+    {
+        "title": "3m Espe Filtek Z250 Xt Restor...",
+        "price": "1280.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2021/05/3M-ESPE-Filtek-Z250-XT-Nano-Hybrid-1-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-filtek-z250-xt-restorative-syringe/"
+    },
+    {
+        "title": "3M ESPE Impregum Soft \u2013...",
+        "price": "4495.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2023/01/5cd92d4d2faa7-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-impregum-soft-refills/"
+    },
+    {
+        "title": "3M ESPE Imprint Bite Registra...",
+        "price": "7790.0010789.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2023/01/imprint-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-imprint-bite-registration-material-vps/"
+    },
+    {
+        "title": "3m Espe Ketac Universal Glass...",
+        "price": "3195.004405.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Ketac-Universal-Glass-Ionomer-Restorative.-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-ketac-universal-glass-ionomer-restorative/"
+    },
+    {
+        "title": "3M Espe mixing tips (BLUE) Pa...",
+        "price": "3255.003636.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2021/12/3M-Espe-mixing-tips-BLUE-Pack-of-8-1-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-mixing-tips-blue-pack-of-8/"
+    },
+    {
+        "title": "3m Espe Monophase Polyether I...",
+        "price": "5143.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2023/03/3m_2_3-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-monophase-polyether-impression-material/"
+    },
+    {
+        "title": "3m Espe P-60 Micro Hybrid Pos...",
+        "price": "1770.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2023/03/79_2-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-p-60-micro-hybrid-posterior-syringe/"
+    },
+    {
+        "title": "3m Espe Pediatric Strip Crown...",
+        "price": "1230.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2023/03/strip-crown-form-pedo-500x500_2-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-pediatric-strip-crown-forms/"
+    },
+    {
+        "title": "3M ESPE Pedodontic Strip Crow...",
+        "price": "20500.0033506.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2023/01/01640263061-h-250-UK1038210_1200x1200-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-pedodontic-strip-crown-kit/"
+    },
+    {
+        "title": "3m Espe Relyx Ceramic Primer...",
+        "price": "1640.002489.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2023/03/e8d446_e6e099a0fe69431ab1bad4b28031ed74mv2-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-relyx-ceramic-primer/"
+    },
+    {
+        "title": "3m Espe Relyx Luting 2 Refill...",
+        "price": "4580.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Relyx-Luting-2-Refill-Packs...-300x300.jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-relyx-luting-2-refill-packs/"
+    },
+    {
+        "title": "3m Espe Relyx Veneer Cement...",
+        "price": "2450.00",
+        "image_url": "https://dentalstall.com/wp-content/uploads/2021/12/3m-Espe-Relyx-Veneer-Cement...jpg",
+        "product_url": "https://dentalstall.com/product/3m-espe-relyx-veneer-cement/"
+    }
 ]
