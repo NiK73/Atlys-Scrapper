@@ -2,8 +2,9 @@ from pydantic_settings import BaseSettings
 from typing import Dict
 
 class Settings(BaseSettings):
-    API_TOKEN: str = "123"
-    DATABASE_URL: str = "sqlite:///./test.db"
+    API_TOKEN: str
+    DATABASE_URL: str
+    REDIS_URL: str
 
 
     site_configs: Dict[str, Dict] = {

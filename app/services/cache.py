@@ -1,11 +1,9 @@
 import redis
+from app.config import settings
 
 class CacheService:
     def __init__(self):
-        # self.client = redis.Redis(host="localhost", port=6379, db=0)
-        self.client = redis.Redis.from_url("redis://red-cu3t0gbtq21c73arb2e0:6379")
-
-
+        self.client = redis.Redis.from_url(settings.REDIS_URL)
     def is_updated(self, product):
         key = product["title"]
         cached_price = self.client.get(key)
