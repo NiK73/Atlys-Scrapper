@@ -2,7 +2,9 @@ import redis
 
 class CacheService:
     def __init__(self):
-        self.client = redis.Redis(host="localhost", port=6379, db=0)
+        # self.client = redis.Redis(host="localhost", port=6379, db=0)
+        self.client = redis.Redis.from_url("redis://red-cu3t0gbtq21c73arb2e0:6379")
+
 
     def is_updated(self, product):
         key = product["title"]
