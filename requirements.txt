@@ -5,3 +5,4 @@ beautifulsoup4
 redis
 pydantic
 python-dotenv
+pydantic-settings
