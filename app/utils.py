@@ -6,13 +6,6 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 def retry(max_retries: int = 3, delay: int = 2):
-    """
-    A decorator to retry a function in case of an exception.
-
-    Args:
-        max_retries (int): Maximum number of retries.
-        delay (int): Delay between retries in seconds.
-    """
     def decorator(func):
         def wrapper(*args, **kwargs):
             retries = 0

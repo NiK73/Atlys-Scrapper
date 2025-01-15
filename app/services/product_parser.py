@@ -1,17 +1,8 @@
 class ProductParserService:
     def __init__(self, config):
-        """
-        Initialize the parser service with a configuration.
-        :param config: Dictionary containing parsing configuration.
-        """
         self.config = config
 
     def parse(self, soup):
-        """
-        Parse the soup object to extract product data based on the configuration.
-        :param soup: BeautifulSoup object.
-        :return: List of parsed product data.
-        """
         product_cards = soup.find_all(
             self.config["product_container"]["tag"], 
             class_=self.config["product_container"]["class"]
