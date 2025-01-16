@@ -15,11 +15,12 @@ curl  -X POST \
   --header 'Content-Type: application/json' \
   --data-raw '{
     "limit": 5,
-    "proxy": "http://127.0.0.1:8001",
     "url": "https://dentalstall.com/shop/page/"
 }'
 
 ```
+
+Add 'proxy' key in the body to pass a proxy string.
 
 ## Prerequisites
 
@@ -55,7 +56,6 @@ curl  -X POST \
   --header 'Content-Type: application/json' \
   --data-raw '{
     "limit": 5,
-    "proxy": "http://proxy-server:port",
     "url": "https://dentalstall.com/shop/page/"
 }'
 ```
