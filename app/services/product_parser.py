@@ -1,8 +1,18 @@
 class ProductParserService:
+    """
+    A service for parsing product data from an HTML soup based on a given configuration.
+
+    This class is responsible for parsing product information from an HTML document
+    (BeautifulSoup object) by dynamically extracting fields as per the provided configuration.
+    """
     def __init__(self, config):
         self.config = config
 
     def parse(self, soup):
+        """
+        This method finds product cards in the HTML, extracts the specified fields (e.g., name, price, etc.),
+        and returns a list of products with their corresponding details.
+        """
         product_cards = soup.find_all(
             self.config["product_container"]["tag"], 
             class_=self.config["product_container"]["class"]

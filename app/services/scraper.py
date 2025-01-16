@@ -10,6 +10,11 @@ from app.utils import retry
 from app.config import settings
 
 class ScraperService:
+    """
+    A service that scrapes product data from a specified URL and performs
+    various operations such as cleaning product prices, saving data to storage, 
+    and updating cache.
+    """
     # BASE_URL = "https://dentalstall.com/shop/page/"
 
     def __init__(self, request):
@@ -21,11 +26,15 @@ class ScraperService:
 
     @retry(3, delay=5)  # Retry mechanism
     async def scrape_page(self, page_number):
-        url = f"{self.BASE_URL}{page_number}/"
+        """
+        Scrapes a single page of product data.
 
-        async with httpx.AsyncClient() as client:
+        This method makes an HTTP request to the specified URL for the page number, 
+        follows redirects if necessary, and returns the HTML content of the page.
+        """
+        url = f"{self.BASE_URL}{page_number}/"
+        async with httpx.AsyncClient(proxy=self.proxy, timeout=10, verify=False) as client:
             response = await client.get(url)
-            print("response - ", response)
             if response.status_code == 301:
                 # Extract the new URL from the 'Location' header
                 redirect_url = response.headers.get('Location')
@@ -37,6 +46,12 @@ class ScraperService:
             return response.text
         
     async def scrape(self):
+        """
+        This method scrapes the pages for products, parses the product information, 
+        cleans the product price, and saves the products to the storage. It also 
+        updates the cache and sends notifications about the total number of products 
+        scraped and updated.
+        """
         scraped_products = []
         parser_config = settings.site_configs[self.BASE_URL]
 
